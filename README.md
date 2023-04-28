@@ -1,2 +1,2 @@
-# flcws-f.github.io-wiki
-Wiki
+# CDN
+Scripts CDN.
